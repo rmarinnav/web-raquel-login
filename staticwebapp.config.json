@@ -9,7 +9,7 @@
     "identityProviders": {
       "azureActiveDirectory": {
         "registration": {
-          "openIdIssuer": "https://login.microsoftonline.com"
+          "openIdIssuer": "https://login.microsoftonline.com/d975a545-c571-45d7-82a8-b50dabde283c"
         }
       }
     }
